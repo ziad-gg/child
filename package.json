@@ -2,6 +2,6 @@
   "name": "child",
   "main": "index.js",
   "dependencies": {
-    "chlid-proxy": "^1.0.6"
+    "chlid-proxy": "^1.0.7"
   }
 }
